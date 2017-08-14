@@ -1,0 +1,30 @@
+database
+	--connection
+	--querybuilder
+
+bootstrap.php return $query
+config.php return $databasearray
+index.php
+index.view.php
+
+
+
+controllers
+ about.php
+ index.php
+
+core
+ --database
+ 	--connection
+ 	--querybuilder
+ -bootsrap
+ -Router.php
+ -request
+
+views
+	-index.view.php
+	-about.view.php
+
+config.php
+index.php
+routes.php
