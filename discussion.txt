@@ -1,0 +1,90 @@
+we need a complete landing page on our home page made with content, links, video spaces (videos I will provide), testimonials section (and other content I will provide), calls to action plugins/buttons with fully functioning links. We also need the foundation of our site structured.  I need a functioning home page with a few linked pages to begin. this is wordpress template stuff
+I need a functioning home page with a few linked pages to begin.
+
+
+We've decided to create a landing page that will be used for people to pre-register and enter a raffle that we are using to fund the site
+With this landing page, we will need a large video promo video area with possible text to the right or underneath,  a body of written content area, an area where we will have 3-4 survey questions (that will be saved and somehow supplied to us...possibly through the same way of registering?) Then, we'd like the content to continue as if we're telling a story that's unwinding....so the content will continue after the few survey questions (right on the same landing page) , then 2 "call to action" buttons (that will prompt the user to either enter the raffle or pre-register for updates). We will then need 3-4 basic linked pages for "contact us," "testimonials and feedback" "donate" or "join the team"
+
+We will need a pre-registration form that will allow users to enter a raffle simultaneously, and put them in the system so they can easily login in the future
+
+Also, we will need a payment gateway that uses a 4 tiered subscription plan for use now, and when the site goes live
+these registrants will not be choosing a paid plan or making any plan purchase until the site is live, but the transactions they will be making will include the raffle entry or donation amount so we will need a form for that
+Paypal integration will be needed . We will need either a "testimonials" or "feedback" separate page (as a top link). If you click on her "call of action" button, it will take you to the survey thing, http://www.profitfrompresenting.com/
+
+Thanks Yatin, I will answer the questions one by one below now:
+1) The raffle contest will giveaway a grand prize dream photography session by Melissa Mary Photography (my photography business, which will be linked to my photography website. http://www.melissamaryphotos.com on this webereels.com landing page, however, for the actual raffle "call to action" button itself, we would like to take them straight to make the raffle ticket purchase (form). Each raffle ticket will be $5 and they need to be counted with some type of reference number that they will receive in a confirmation email upon the purchase.
+2) We will have a Free subscription plan available to everyone with a small amount of free space. The 4 Additional Paid Subscription options will each provide more reel movie storage space and calling minutes as subscription option increases. We may need a "subscription" link or tab, as well as those other 3 top tabs (page/link). The subscription page can have all of those details and will be another way to link to preregister signup
+I will definitely share the content details, I just have to finalize a couple edits on some documents and can share them so you may use it as a guide
+3) The $5 raffle is for the grand prize photography session but we will also be providing the option to simply donate to support the cause, which will make more sense as we progress :-) The donation button or tab can either be at the top with those other links or on the bottom of the page somewhere, not too important because we won't be asking for money but will provide the option if people are inclined
+4) We will have 4-5 survey questions to engage the reader and gather feedback for our site. We will be learning about our audience's needs :-) I will provide those questions to you also in the content I'm finalizing. This I should be able to have to you in the next 2-3 days
+The survey can be very similar to the site example but of course, the actual questions will be different. Yes, this site example is purely a guide but all of the content will be completely our content
+5) You may follow the template closely if you also like the flow of it however, we'd actually prefer it was a little different for us just for originality purposes haha. You're welcome to have flexibility here but I was thinking we would have slightly different top links (visually) and font can be different. The design can be pretty straight forward for this first landing page/site because the visual video content will be catching the eye of the viewer the most.
+6)** We would actually prefer it not be wordpress 
+7) Yes, we will be using our video and additional sample videos (that should be smaller than the large main video on the top, maybe 1/2 or 3/4 of the size) in the content body
+
+
+ I will have plans/content to share with you soon. I just need to know how the winner of the Raffle will be selected .
+Will  the winner of the photo shoot be decided automatically by the software at random or you will choose the winner manually ?
+
+if we can somehow track each ticket sale number and then have it randomly select one of those during the drawing that would be best
+
+http://0d9642e4.ngrok.io/LotteryBootstrap/
+http://0d9642e4.ngrok.io/LotteryBootstrap/
+
+http://0d9642e4.ngrok.io/LotteryBootstrap/testimonials.html
+
+http://0d9642e4.ngrok.io/LotteryBootstrap/join-the-team.html
+
+http://0d9642e4.ngrok.io/LotteryBootstrap/contact.html
+http://0d9642e4.ngrok.io/LotteryBootstrap/
+
+http://0d9642e4.ngrok.io/LotteryBootstrap/testimonials.html
+
+http://0d9642e4.ngrok.io/LotteryBootstrap/join-the-team.html
+
+http://0d9642e4.ngrok.io/LotteryBootstrap/contact.html
+
+http://0d9642e4.ngrok.io/LotteryBootstrap/signin.html
+
+I will just mention that for the "join the team" we will most likely have more text content rather than faces but you'll see that in the presentation of it.
+(We will be recruiting team members to work on our sales team, commission based and the initial details will be there on that page)
+
+ WeBe Reels.pdf
+ I'm attaching a pdf of the content so far that will need filling into the website the way you see fit. I did add and change a couple of the links and will be back with you as you work with this. You will notice the content is sort of just listed to fill into the body of the home page (which could be linked with "Details" to remain as the home page, if that makes sense.
+The video content, I'm working on now and will need more time to finish, but I'm okay with you teaching me how to simply add the videos into their place if that's necessary.
+The main concern now is getting all of this content up (plus the tutorial content, you will notice there is an area I discuss it there where I will train "editors" to edit the reels.
+That I'll need to add later on but I'm aiming at having this all finished, samples edited and this site up so we can begin on Phase 2, the layout and completion of the site
+
+I did not understand what this editing of reels part is .
+Is that about people will send their videos or images to you and you will edit them on your side and will upload them for others to check .
+
+team members will do editing as well as myself, yes
+this is happening simultaneously
+Ok. What will your users or clients upload in the first place ?
+
+from the get go
+photos, movie clips, text...
+What is the tutorial part ?
+
+
+I would prefer the details over here as I work through logs . I went through your document already . 
+I would like the (first) website to look exactly like the content in the document I shared with you
+and I will be supplying the new logo
+and the remaining filler content
+I said that looks great and I've gotten the content to you. There is only filler content left for me to provide
+plus the videos
+Take screenshots of the pages , Add comments there.
+ When do you provide me the information next about what you need for the tutorial and the Reels part ?
+
+all of my content is provided except for the tutorial text and the videos
+I need to get all the information first from you. I need to see exactly what all is there in the tutorial or filter or in the pending part for the Reels .
+
+that is it
+that is what I mean by "filler" content
+the tutorial "filler" content will be simple text
+plus the video file
+and you will need to do the preregistration form.
+
+I will keep working on the videos to supply to you and the tutorial information
+plus the sign up form, those details
+Yes, Provide all the pending details in your next document .
